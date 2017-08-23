@@ -13,8 +13,8 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Test"
-    subtitle = "This is a hugo site test using a very nice theme!"
+    title = "Jacob Smith"
+    subtitle = "Current Software Engineering Student @ UNB"
     author = "Jacob Smith"
     description = "Information, projects & links!"
     keywords = "Jacob, Smith, Jacob Smith, UNB, Fredericton, portfolio, GitHub, resume, projects, about"
