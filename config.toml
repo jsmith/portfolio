@@ -13,7 +13,7 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Jacob Smith"
+    title = "Test"
     subtitle = "This is a hugo site test using a very nice theme!"
     author = "Jacob Smith"
     description = "Information, projects & links!"
