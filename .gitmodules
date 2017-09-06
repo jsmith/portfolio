@@ -1,6 +1,6 @@
 [submodule "themes/hugrid"]
 	path = themes/hugrid
-	url = https://github.com/jacsmith21/hugrid.git
+	url = https://github.com/aerohub/hugrid.git
 
 [submodule "public"]
 	path = "public"
