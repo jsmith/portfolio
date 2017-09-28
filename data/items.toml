@@ -27,13 +27,6 @@ alt = "Battleship"
 description = "Battleship is a networked 2 player game built in pure Java. Created with Tristan Tulkens for CS2043."
 url = "https://github.com/jacsmith21/battleship"
 [[items]]
-title = "Universe"
-image = "images/full/universe.png"
-thumb = "images/thumbs/universe.png"
-alt = "Universe"
-description = "Universe is a web application built to manage & query WebSphere configuration information. It uses pretty-table & pretty-json to display information. Built for Medavie Blue Cross."
-url = "https://github.com/medavie/environment-data-webapp"
-[[items]]
 title = "Todo"
 image = "images/full/todo.png"
 thumb = "images/thumbs/todo.png"
