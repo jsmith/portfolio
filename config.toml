@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Portfolio"
 theme = "hugrid"
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXXXXX-Y"
+googleAnalytics = "UA-118568474-1"
 
 contentdir = "content"
 datadir = "data"
