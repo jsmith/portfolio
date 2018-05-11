@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://jacsmith21.github.io/"
+baseurl = "https://j.acobsmith.io"
 languageCode = "en-us"
 title = "Portfolio"
 theme = "hugrid"
@@ -14,13 +14,10 @@ publishdir = "public"
 [params]
     # Meta
     title = "Jacob Smith"
-    subtitle = "Current Software Engineering Student @ UNB"
+    subtitle = "Current Software Engineering Student @ UNB interested in Machine Learning"
     author = "Jacob Smith"
     description = "Information, projects & links!"
-    keywords = "Jacob, Smith, Jacob Smith, UNB, Fredericton, portfolio, GitHub, resume, projects, about"
-
-    # Body background color
-    bodybgcolor = "#f9f9f9"
+    keywords = "Jacob, Smith, Jacob Smith, UNB, Fredericton, portfolio, GitHub, resume, projects, about, machine, learning, ai"
 
     # Preview container button text
     buttontext = "View the source"

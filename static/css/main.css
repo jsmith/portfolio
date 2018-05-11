@@ -21,3 +21,7 @@ header h1 {
 header h1 span {
     margin-top: 10px;
 }
+
+body {
+	background: #f9f9f9;
+}
