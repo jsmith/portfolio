@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "lint": "vue-cli-service lint",
+    "dev": "vuepress dev jacsmith21.github.io",
+    "build": "vuepress build jacsmith21.github.io",
+    "deploy": "git clone git@github.com:jacsmith21/jacsmith21.github.io repo && npm run build && mv build/* repo && cd repo && git add . && git commit -m \"release\" && git push && cd .. && rm -rf repo"
+  },
+  "dependencies": {
+    "@jsmith21/vue-terminal": "^0.1.7",
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0",
+    "@vue/cli-plugin-eslint": "^3.0.0",
+    "@vue/cli-service": "^3.0.0",
+    "@vue/eslint-config-standard": "^3.0.1",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-cli-plugin-vuepress": "^0.1.0",
+    "vue-template-compiler": "^2.5.17",
+    "vuepress": "^0.14.2"
+  }
+}
