@@ -1,5 +1,6 @@
 module.exports = {
   dest: 'build',
+  theme: 'terminal',
   serviceWorker: true,
   title: 'Jacob Smith',
   base: '/',

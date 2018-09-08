@@ -43,7 +43,7 @@ projects:
             GolangNeuralNetwork (GNN) is a simple neural network
             framework. I built GNN for educational purposes to better understand neural networks and golang! Its only dependancies exist to read CSVs and for logging purposes.
         link: github.com/jacsmith21/gnn
-    -   title: Pretty JSON
+    -   title: PrettyJSON
         description: >
             Pretty JSON is a JavaScript library to render and compare JSON
             objects in HTML. The forked repository implements the rendering and I implement the comparing! Pretty JSON makes use of backbone.js to help render objects.

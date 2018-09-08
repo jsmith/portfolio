@@ -9,8 +9,8 @@
     "deploy": "git clone git@github.com:jacsmith21/jacsmith21.github.io repo && npm run build && mv build/* repo && cd repo && git add . && git commit -m \"release\" && git push && cd .. && rm -rf repo"
   },
   "dependencies": {
-    "@jsmith21/vue-terminal": "^0.2.0",
-    "vue": "^2.5.17"
+    "vue": "^2.5.17",
+    "vuepress-theme-terminal": "^0.1.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0",
