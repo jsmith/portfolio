@@ -19,7 +19,7 @@ welcome: |
     ::##::::::::. #######:: ##:::. ##:::: ##:::: ##:::::::. #######:: ########:'####:. #######::
     :..::::::::::.......:::..:::::..:::::..:::::..:::::::::.......:::........::....:::.......:::
 about: |
-    Current Software Engineering Student @ UNB
+    Current Software Engineering Student @ UNB. Currently interning @ Eigen Innovations as a Machine Learning Engineer. I also enjoy doing frontend stuff :)
 socials:
     - title: github
       link: github.com/jacsmith21

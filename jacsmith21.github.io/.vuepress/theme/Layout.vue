@@ -3,8 +3,7 @@
     <div id="terminal-mount"></div>
     <i class="info-button fas fa-info-circle" @click="open = true"></i>
     <model v-model="open">
-      <i class="fas fa-code icon-text"></i>
-      with <i class="fas fa-heart icon-text"></i> by
+      <i class="fas fa-code icon-text"></i> by
       <a class="link" href="https://github.com/jacsmith21" target="_blank"> @jacsmith21</a>
     </model>
   </div>
@@ -85,9 +84,10 @@
   .info-button
     position absolute
     top 10px
-    right 10px
+    right 12px
     color rgb(30, 31, 41)
     opacity 0.4
+    font-size 1.3em
 
     &:hover
       cursor pointer
