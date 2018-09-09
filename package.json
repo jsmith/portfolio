@@ -4,9 +4,9 @@
   "private": true,
   "scripts": {
     "lint": "vue-cli-service lint",
-    "dev": "vuepress dev jacsmith21.github.io",
-    "build": "vuepress build jacsmith21.github.io",
-    "deploy": "git clone git@github.com:jacsmith21/jacsmith21.github.io repo && npm run build && mv build/* repo && cd repo && git add . && git commit -m \"release\" && git push && cd .. && rm -rf repo"
+    "dev": "vuepress dev jsmith.github.io",
+    "build": "vuepress build jsmith.github.io",
+    "deploy": "git clone git@github.com:jsmith/jsmith.github.io repo && npm run build && cp -r build/* repo && rm -r build && cd repo && git add . && git commit -m \"release\" && git push && cd .. && rm -rf repo"
   },
   "dependencies": {
     "vue": "^2.5.17",
