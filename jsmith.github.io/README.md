@@ -29,19 +29,16 @@ socials:
       link: jacob.smith@unb.ca
 projects:
     -   title: vue-terminal
-        link: github.com/jsmith/prompt
+        link: github.com/jsmith/vue-terminal
         description: >
-            `vue-terminal` is the Vue component library I made to power this website. It tries
-            its best to mimic a regular zsh shell (tab completion, simple commands, etc.).
+            `vue-terminal` is the Vue component library I made to power this website. It tries its best to mimic a regular zsh shell (tab completion, simple commands, etc.).
     -   title: JavaMachineLearning
         description: >
-            Java Machine Learning (JML) is a Java machine learning
-            framework built for CS6735 (Machine Learning and Data Mining). It implements serveral different machine learning algorithms. JML's only dependancy is for logging.
+            Java Machine Learning (JML) is a Java machine learning framework built for CS6735 (Machine Learning and Data Mining). It implements serveral different machine learning algorithms. JML's only dependancy is for logging.
         link: github.com/jsmith/jml
     -   title: GolangNeuralNetworkFramework
         description: >
-            GolangNeuralNetwork (GNN) is a simple neural network
-            framework. I built GNN for educational purposes to better understand neural networks and golang! Its only dependancies exist to read CSVs and for logging purposes.
+            GolangNeuralNetwork (GNN) is a simple neural network framework. I built GNN for educational purposes to better understand neural networks and golang! Its only dependancies exist to read CSVs and for logging purposes.
         link: github.com/jsmith/gnn
     -   title: PrettyJSON
         description: >
@@ -56,7 +53,7 @@ projects:
     -   title: Battleship
         description: >
             Battleship is a networked 2 player game built in pure Java
-            . Created with Tristan Tulkens for CS2043 (Software Engineering I). Somehow, it's only dependancy is SQLite.
+            . Created with Tristan Tulkens for CS2043 (Software Engineering I). Somehow, its only dependancy is SQLite.
         link: github.com/jsmith/battleship
     -   title: Todo
         description: >
