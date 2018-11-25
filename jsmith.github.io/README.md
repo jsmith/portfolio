@@ -31,11 +31,11 @@ projects:
     -   title: DAWG
         link: https://github.com/dawg/vusic
         description: >
-            DAWG is a Digital Audio Workstation (DAW) written Vue.js. The project is in active development as part of my Senior Design (Capstone) project. DAWG will feature an improved UI/UX (relative to current state-of-the-art DAWs), a real-time collaboration system, and a bit machine learning sprinkled on top.
+            DAWG is a Digital Audio Workstation (DAW) written in Vue.js. The project is in active development as part of my Senior Design (Capstone) project. DAWG will feature an improved UI/UX (relative to current state-of-the-art DAWs), a real-time collaboration system, and a bit machine learning sprinkled on top for vocal extraction and piano note transcription.
     -   title: CurriculumMapper
         link: https://github.com/jsmith/curriculum-mapper-frontend
         description: >
-            An independent project completed for SWE4913 (Independent Project). Curriculum Mapper is an online system that manages university curriculums. This project uses Vue, d3, Flask, MongoDB, and a whole bunch of other cool technology. See https://serene-lovelace-d0079e.netlify.com/#/prerequisites for a cool prerequisite graph.
+            An independent project completed for SWE4913 (Independent Project). Curriculum Mapper is an online system that manages university curriculums. This project uses Vue, d3, Flask, MongoDB, and a whole bunch of other cool technology. See https://serene-lovelace-d0079e.netlify.com/#/prerequisites for a cool prerequisite graph (give the server a second to boot up).
     -   title: vue-terminal
         link: github.com/jsmith/vue-terminal
         description: >
