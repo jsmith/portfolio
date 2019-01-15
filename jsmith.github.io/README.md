@@ -18,6 +18,9 @@ welcome: |
     : ##:::::::: ##:::: ##: ##::. ##::::: ##:::: ##::::::: ##:::: ##: ##:::::::: ##:: ##:::: ##:
     : ##::::::::. #######:: ##:::. ##:::: ##:::: ##:::::::. #######:: ########:'####:. #######::
     :..::::::::::.......:::..:::::..:::::..:::::..:::::::::.......:::........::....:::.......:::
+
+    You can also visit my LinkedIn page (https://www.linkedin.com/in/jacsmith21) for Education and Employment information, and my GitHub page (https://github.com/jsmith) to see some of the projects that I've worked on.
+
 about: |
     Current 4th year Software Engineering Student @ UNB. Currently interning @ Eigen Innovations as a Machine Learning Engineer. I also enjoy doing frontend stuff :)
 socials:

@@ -6,11 +6,11 @@
     "lint": "vue-cli-service lint",
     "dev": "vuepress dev jsmith.github.io",
     "build": "vuepress build jsmith.github.io",
-    "deploy": "git clone git@github.com:jsmith/jsmith.github.io repo && npm run build && cp -r build/* repo && rm -r build && cd repo && git add . && git commit -m \"release\" && git push && cd .. && rm -rf repo"
+    "deploy": "git clone git@github.com:jsmith/jsmith.github.io repo && rm -rf repo/assets && npm run build && cp -r build/* repo && rm -r build && cd repo && git add . && git commit -m \"release\" && git push && cd .. && rm -rf repo"
   },
   "dependencies": {
     "vue": "^2.5.17",
-    "vuepress-theme-terminal": "^1.0"
+    "vuepress-theme-terminal": "^1.1.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.0",
